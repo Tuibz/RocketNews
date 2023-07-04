@@ -23,7 +23,7 @@ body {
 }
 
 .background {
-  height: 100vh;
+  height: 100%;
   background-color: var(--body-bg-color);
   flex: 1;
 }
