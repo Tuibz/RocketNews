@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rocket News</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="background">
+      <img class="logo" src="./assets/logo.svg" alt="Rocket News" />
+      <h1>atualize ideias e informações em 5 minutos.</h1>
+      <p class="texto1">
+        tudo que você precisa saber para começar seu dia bem e informado
+      </p>
+      <p class="texto2">
+        noticias sobre o universo Rocketseat, e tudo o que precisa para começar
+        o dia melhor. perfeito para se preparar para codar ☕
+      </p>
+
+      <fieldset>
+        <label for="email" class="email-label">Insira seu e-mail:</label>
+
+        <div class="form">
+          <input type="email" id="email" placeholder="oi@rocketseat.com" />
+          <button type="submit" onclick="HandleMail()">
+            <img class="send" src="./assets/send.png" alt="" />
+          </button>
+        </div>
+      </fieldset>
+
+      <div class="link">
+        <a href="#" target="_blank">deixe-me ler primeiro</a>
+        <img class="arrow" src="./assets/arrow-right.png" />
+      </div>
+    </div>
+
+    <div class="background image"></div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
