@@ -39,8 +39,9 @@ body {
 }
 
 .logo {
-  height: 94px;
-  width: 389px;
+  height: auto;
+  width: 100%;
+  max-width: 389px;
   margin-top: 50px;
   margin-left: 30px;
 }
