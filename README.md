@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto RocketNews" src="C:\Users\Arthur\Documents\DEV\Projetos\Rocketseat_RocketNews\Projeto\.github\RocketNews.jpg" width="100%">
+  <img alt="projeto RocketNews" src="./.github/RocketNews.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
