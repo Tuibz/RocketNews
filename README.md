@@ -33,11 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-  Projeto desenvolvido para captação de leads ou newsletter.
+Projeto desenvolvido para captação de leads ou newsletter.
 
 - [Acesse o projeto finalizado, online](https://tuibz.github.io/RocketNews/)
-
-
 
 ## 🔖 Layout
 
